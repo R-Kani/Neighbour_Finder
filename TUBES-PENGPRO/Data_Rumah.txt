@@ -1,0 +1,4 @@
+13 27
+2 rumah seberang kiri rumah anda dihuni oleh keluarga joni
+1 rumah seberang kanan rumah joni dihuni oleh keluarga fero
+3 rumah sebelah kiri rumah fero dihuni oleh keluarga kira
